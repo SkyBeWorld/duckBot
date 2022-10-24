@@ -1,0 +1,6 @@
+{
+    "Token": "Token",
+    "clientId": "Client ID",
+    "clientSecret": "Client Secret ID",
+    "databasetoken": "MongoDB Token"
+}
